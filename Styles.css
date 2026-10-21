@@ -33,3 +33,12 @@ h2 {
 a {
   color: #1a3a5c;
 }
+
+.foto {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 10px;
+}
